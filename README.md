@@ -1,6 +1,6 @@
 # Usage
 ```bash
-./tex2png {file}.text
+./tex2png {file}.tex
 ```
 
 TODO [], use a docker image in "tex2png", not the binaries
